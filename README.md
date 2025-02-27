@@ -57,6 +57,8 @@
 
 ### 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [【NODDI&lpar;神经突方向离散度和密度成像&rpar;原理介绍】](https://blog.csdn.net/Aurora_1105/article/details/142766500)
+- [【Windows下安装MRtrix3】](https://blog.csdn.net/Aurora_1105/article/details/142729759)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- for beauty 留个空行好看点 -->
